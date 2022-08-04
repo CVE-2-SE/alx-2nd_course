@@ -1,1 +1,1 @@
-My first readme
+This is ny first readme and am seeing progress in study!
